@@ -51,7 +51,6 @@ if selection == "Introduction":
     
     The same applies to stocks and companies. Valuation acts like a GPS that guides you through the complex world of investments.
     """)
-    st.image("https://via.placeholder.com/700x300.png?text=Valuation+Journey", use_column_width=True)
     st.markdown("---")
 
 # =============================================================================
